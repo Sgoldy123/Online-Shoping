@@ -1,4 +1,4 @@
-# shoping-website
+<!-- # shoping-website
 
 ## deployed on https://azadshop2.herokuapp.com/
 
@@ -13,4 +13,4 @@ option, data storage using MongoDB, easy admin
 product upload using Multer, Product Review option.
 
 
-## Tools used:-​ React, Redux, MongoDB, Express, node modules.
+## Tools used:-​ React, Redux, MongoDB, Express, node modules. -->
